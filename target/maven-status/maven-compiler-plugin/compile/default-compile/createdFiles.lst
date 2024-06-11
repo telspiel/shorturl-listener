@@ -1,0 +1,4 @@
+com\noesis\shorturllistener\App.class
+com\noesis\shorturllistener\controller\ShortUrlListenerController.class
+com\noesis\shorturllistener\kafka\MessageProducer.class
+com\noesis\shorturllistener\config\SenderConfig.class
